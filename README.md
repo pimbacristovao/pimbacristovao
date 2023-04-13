@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/pimbacristovao">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pimbacristovao&show_icons=true&theme=dark&include_all_commits=true">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimbacristovao&layout=compact&langs_count=16&theme=dark">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pimbacristovao&show_icons=true&theme=dark&include_all_commits=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimbacristovao&layout=compact&langs_count=16&theme=dark">
 </div>
 
 ## About
