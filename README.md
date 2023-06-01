@@ -23,10 +23,4 @@ I'm currently learning **_PHP_** and working on small projects to practice my sk
 <img src="https://devicons.railway.app/i/bootstrap.svg" alt="Bootstarp" height="35" />
 <img src="https://devicons.railway.app/i/mysql.svg" alt="MySQL" height="35" />
 <img src="https://devicons.railway.app/i/git.svg" alt="Git" height="35" />
-</div>
-  
-## Social Media
-
-<div>
-  <a href="https://www.instagram.com/aldaircristovaoof/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="28"/></a>
-</div>
+  </div>
