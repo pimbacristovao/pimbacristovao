@@ -8,11 +8,9 @@
 
 ## About
 
-- ✏️ Student at the Medium Commercial Institute of Luanda (IMCL)
+- ✏️ Student at the Higher Polytechnic Institute of Technologies and Sciences - ISPTEC
 
 - 👨‍💻 Programming enthusiast who is learning to develop coding skills.
-
-I'm currently learning **_PHP_** and working on small projects to practice my skills. I'm always looking for ways to improve my coding skills and gain new knowledge.
   
 ## Knowledge
 
